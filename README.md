@@ -1,16 +1,19 @@
-## Hi there 👋
+# ¡Hola! Soy Diego Rocha 👋
 
-<!--
-**rochamx-helpdesk/rochamx-helpdesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Actualmente me encuentro en una etapa de **crecimiento profesional y técnico**, enfocado en aprender y aplicar soluciones dentro del ecosistema digital.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+* 🎓 Estudiante de **TSU en Transformación Digital** en la UVEG.
+* 🛠️ Experiencia previa en **Soporte Técnico Remoto** y atención especializada (Helpdesk L1).
+* 📍 Basado en **Querétaro, México**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Áreas de interés
+* Automatización de procesos.
+* Optimización de flujos de trabajo digitales.
+* Mejora continua en la experiencia del usuario (Soporte Técnico).
+
+### 📫 Contacto
+* Puedes contactarme a través de mi correo profesional: **Dgrocha.dev@gmail.com**
+
+---
+*"La tecnología es mejor cuando une a las personas y mejora sus procesos."*
