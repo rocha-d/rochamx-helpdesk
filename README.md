@@ -15,5 +15,11 @@ Bienvenido a mi perfil de GitHub. Actualmente me encuentro en una etapa de **cre
 ### 📫 Contacto
 * Puedes contactarme a través de mi correo profesional: **Dgrocha.dev@gmail.com**
 
+* ## 🌱 Actualmente aprendiendo
+- Linux (Ubuntu 24.04)
+- Comandos de terminal y administración de sistemas
+- Git y GitHub
+- Ruta hacia DevSecOps y Cloud Security
+
 ---
 *"La tecnología es mejor cuando une a las personas y mejora sus procesos."*
